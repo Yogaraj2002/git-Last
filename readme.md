@@ -1,2 +1,2 @@
 ## Git 
-This is the main branch.
+This is the second branch.
