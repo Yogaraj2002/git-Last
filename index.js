@@ -1,1 +1,1 @@
-console.log("I'm from main branch");
+console.log("I'm from second branch");
